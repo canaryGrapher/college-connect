@@ -1,2 +1,2 @@
-# codecademy-manipal-website
-The official website of the Codecademy Manipal Chapter
+# College-Connect
+The social network for college students.  
